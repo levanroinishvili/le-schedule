@@ -1,0 +1,27 @@
+{
+  "name": "le-schedule",
+  "version": "1.0.0",
+  "description": "Quick implementation of throttle() and debounce() functions",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chalk": "^2.0.1"
+  },
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/levanroinishvili/le-schedule.git"
+  },
+  "keywords": [
+    "throttle",
+    "debounce"
+  ],
+  "author": "Levan Roinishvili",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/levanroinishvili/le-schedule/issues"
+  },
+  "homepage": "https://github.com/levanroinishvili/le-schedule#readme"
+}
